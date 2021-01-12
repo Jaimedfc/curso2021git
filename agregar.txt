@@ -2,6 +2,8 @@ Modificacion inicial github
 
 Juan Palomo
 
+Jaime de Frutos
+
 Creado fichero desde master
 
 hola
