@@ -16,3 +16,5 @@ Solución de un problema cualquiera
 Cambio desde rama_2
 
 Modificación local desde master
+
+Modificación local desde master sin actualizar repo remoto
