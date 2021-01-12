@@ -13,3 +13,5 @@ Modificacion final github
 Nueva Feature1
 
 Nueva Release1
+
+Nuevo Hotfix
