@@ -1,5 +1,7 @@
 Modificacion inicial github
 
+Juan Palomo
+
 Creado fichero desde master
 
 hola
